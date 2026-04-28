@@ -89,6 +89,7 @@ export default function Dashboard({ setPage, lang }) {
       <div className="page-header">
         <h1 className="page-title">{c.title}</h1>
         <p className="page-subtitle">{c.subtitle}</p>
+        
       </div>
 
       <div className="stats-row">
